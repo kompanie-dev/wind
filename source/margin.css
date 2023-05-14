@@ -1,0 +1,89 @@
+.margin-bottom-xsmall {
+    margin-bottom: var(--margin-xsmall) !important;
+}
+.margin-bottom-small {
+    margin-bottom: var(--margin-small) !important;
+}
+.margin-bottom-medium {
+    margin-bottom: var(--margin-medium) !important;
+}
+.margin-bottom-large {
+    margin-bottom: var(--margin-large) !important;
+}
+
+.margin-left-xsmall {
+    margin-left: var(--margin-xsmall) !important;
+}
+.margin-left-small {
+    margin-left: var(--margin-small) !important;
+}
+.margin-left-medium {
+    margin-left: var(--margin-medium) !important;
+}
+.margin-left-large {
+    margin-left: var(--margin-large) !important;
+}
+
+.margin-right-xsmall {
+    margin-right: var(--margin-xsmall) !important;
+}
+.margin-right-small {
+    margin-right: var(--margin-small) !important;
+}
+.margin-right-medium {
+    margin-right: var(--margin-medium) !important;
+}
+.margin-right-large {
+    margin-right: var(--margin-large) !important;
+}
+
+.margin-top-xsmall {
+    margin-top: var(--margin-xsmall) !important;
+}
+.margin-top-small {
+    margin-top: var(--margin-small) !important;
+}
+.margin-top-medium {
+    margin-top: var(--margin-medium) !important;
+}
+.margin-top-large {
+    margin-top: var(--margin-large) !important;
+}
+
+.margin-x-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.margin-x-xsmall {
+    margin-left: var(--margin-xsmall) !important;
+    margin-right: var(--margin-xsmall) !important;
+}
+.margin-x-small {
+    margin-left: var(--margin-small) !important;
+    margin-right: var(--margin-small) !important;
+}
+.margin-x-medium {
+    margin-left: var(--margin-medium) !important;
+    margin-right: var(--margin-medium) !important;
+}
+.margin-x-large {
+    margin-left: var(--margin-large) !important;
+    margin-right: var(--margin-large) !important;
+}
+
+.margin-y-xsmall {
+    margin-bottom: var(--margin-xsmall) !important;
+    margin-top: var(--margin-xsmall) !important;
+}
+.margin-y-small {
+    margin-bottom: var(--margin-small) !important;
+    margin-top: var(--margin-small) !important;
+}
+.margin-y-medium {
+    margin-bottom: var(--margin-medium) !important;
+    margin-top: var(--margin-medium) !important;
+}
+.margin-y-large {
+    margin-bottom: var(--margin-large) !important;
+    margin-top: var(--margin-large) !important;
+}

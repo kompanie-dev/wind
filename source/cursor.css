@@ -1,0 +1,79 @@
+.cursor-all-scroll {
+    cursor: all-scroll !important;
+}
+
+.cursor-cell {
+    cursor: cell !important;
+}
+
+.cursor-col-resize {
+    cursor: col-resize !important;
+}
+
+.cursor-crosshair {
+    cursor: crosshair !important;
+}
+
+.cursor-ew-resize {
+    cursor: ew-resize !important;
+}
+
+.cursor-grab {
+    cursor: grab !important;
+}
+
+.cursor-grabbing {
+    cursor: grabbing !important;
+}
+
+.cursor-help {
+    cursor: help !important;
+}
+
+.cursor-not-allowed {
+    cursor: not-allowed !important;
+}
+
+.cursor-move {
+    cursor: move !important;
+}
+
+.cursor-nesw-resize {
+    cursor: nesw-resize !important;
+}
+
+.cursor-ns-resize {
+    cursor: ns-resize !important;
+}
+
+.cursor-nwse-resize {
+    cursor: nwse-resize !important;
+}
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.cursor-progress {
+    cursor: progress !important;
+}
+
+.cursor-row-resize {
+    cursor: row-resize !important;
+}
+
+.cursor-text {
+    cursor: text !important;
+}
+
+.cursor-wait {
+    cursor: wait !important;
+}
+
+.cursor-zoom-in {
+    cursor: zoom-in !important;
+}
+
+.cursor-zoom-out {
+    cursor: zoom-out !important;
+}

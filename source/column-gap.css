@@ -1,0 +1,23 @@
+.column-gap-xsmall {
+    column-gap: var(--margin-xsmall) !important;
+}
+
+.column-gap-small {
+    column-gap: var(--margin-small) !important;
+}
+
+.column-gap-medium {
+    column-gap: var(--margin-medium) !important;
+}
+
+.column-gap-large {
+    column-gap: var(--margin-large) !important;
+}
+
+.column-gap-xlarge {
+    column-gap: var(--margin-xlarge) !important;
+}
+
+.column-gap-xxlarge {
+    column-gap: var(--margin-xxlarge) !important;
+}
