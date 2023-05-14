@@ -1,0 +1,11 @@
+.text-transform-capitalize {
+    text-transform: capitalize !important;
+}
+
+.text-transform-lowercase {
+    text-transform: lowercase !important;
+}
+
+.text-transform-uppercase {
+    text-transform: uppercase !important;
+}

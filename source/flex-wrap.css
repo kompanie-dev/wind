@@ -1,0 +1,7 @@
+.flex-wrap-nowrap {
+    flex-wrap: nowrap !important;
+}
+
+.flex-wrap-wrap {
+    flex-wrap: wrap !important;
+}

@@ -1,0 +1,39 @@
+:root {
+    --background-danger: #d34;
+    --background-info: #09b;
+    --background-success: #185;
+    --background-transparent: transparent;
+    --background-warning: #fc0;
+    
+    --border-radius-small: 5%;
+    --border-radius-medium: 10%;
+    --border-radius-large: 20%;
+
+    --border-width-small: 1px;
+    --border-width-medium: 3px;
+    --border-width-large: 5px;
+
+    --font-family-monospace: SFMono-Regular,Consolas,"Courier New",monospace;
+
+    --font-size-xsmall: .8rem;
+    --font-size-small: 1rem;
+    --font-size-medium: 1.2rem;
+    --font-size-large: 1.5rem;
+    --font-size-xlarge: 2rem;
+    --font-size-xxlarge: 2.5rem;
+
+    --line-height-xsmall: 1;
+    --line-height-small: 1.25;
+    --line-height-medium: 1.5;
+    --line-height-large: 2;
+
+    --margin-xsmall: 3px;
+    --margin-small: 5px;
+    --margin-medium: 10px;
+    --margin-large: 15px;
+
+    --padding-xsmall: 3px;
+    --padding-small: 5px;
+    --padding-medium: 10px;
+    --padding-large: 15px;
+}

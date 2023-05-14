@@ -1,0 +1,19 @@
+.background-color-danger {
+    background-color: var(--background-danger) !important;
+}
+
+.background-color-info {
+    background-color: var(--background-info) !important;
+}
+
+.background-color-success {
+    background-color: var(--background-success) !important;
+}
+
+.background-color-transparent {
+    background-color: var(--background-transparent) !important;
+}
+
+.background-color-warning {
+    background-color: var(--background-warning) !important;
+}

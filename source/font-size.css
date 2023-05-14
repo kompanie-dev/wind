@@ -1,0 +1,23 @@
+.font-size-xsmall {
+    font-size: var(--font-size-xsmall) !important;
+}
+
+.font-size-small {
+    font-size: var(--font-size-small) !important;
+}
+
+.font-size-medium {
+    font-size: var(--font-size-medium) !important;
+}
+
+.font-size-large {
+    font-size: var(--font-size-large) !important;
+}
+
+.font-size-xlarge {
+    font-size: var(--font-size-xlarge) !important;
+}
+
+.font-size-xxlarge {
+    font-size: var(--font-size-xxlarge) !important;
+}

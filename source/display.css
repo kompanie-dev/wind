@@ -1,0 +1,41 @@
+.display-block {
+    display: block !important;
+}
+
+.display-flex {
+    display: flex !important;
+}
+
+.display-inline {
+    display: inline !important;
+}
+
+.display-inline-block {
+    display: inline-block !important;
+}
+
+.display-inline-flex {
+    display: inline-flex !important;
+}
+
+.display-none {
+    display: none !important;
+}
+
+@media (max-width: 720px) {
+    .display-block-mobile {
+        display: block !important;
+    }
+
+    .display-inline-mobile {
+        display: inline !important;
+    }
+
+    .display-inline-block-mobile {
+        display: inline-block !important;
+    }
+
+    .display-none-mobile {
+        display: none !important;
+    }
+}

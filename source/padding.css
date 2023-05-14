@@ -1,0 +1,85 @@
+.padding-bottom-xsmall {
+    padding-bottom: var(--padding-xsmall) !important;
+}
+.padding-bottom-small {
+    padding-bottom: var(--padding-small) !important;
+}
+.padding-bottom-medium {
+    padding-bottom: var(--padding-medium) !important;
+}
+.padding-bottom-large {
+    padding-bottom: var(--padding-large) !important;
+}
+
+.padding-left-xsmall {
+    padding-left: var(--padding-xsmall) !important;
+}
+.padding-left-small {
+    padding-left: var(--padding-small) !important;
+}
+.padding-left-medium {
+    padding-left: var(--padding-medium) !important;
+}
+.padding-left-large {
+    padding-left: var(--padding-large) !important;
+}
+
+.padding-right-xsmall {
+    padding-right: var(--padding-xsmall) !important;
+}
+.padding-right-small {
+    padding-right: var(--padding-small) !important;
+}
+.padding-right-medium {
+    padding-right: var(--padding-medium) !important;
+}
+.padding-right-large {
+    padding-right: var(--padding-large) !important;
+}
+
+.padding-top-xsmall {
+    padding-top: var(--padding-xsmall) !important;
+}
+.padding-top-small {
+    padding-top: var(--padding-small) !important;
+}
+.padding-top-medium {
+    padding-top: var(--padding-medium) !important;
+}
+.padding-top-large {
+    padding-top: var(--padding-large) !important;
+}
+
+.padding-x-xsmall {
+    padding-left: var(--padding-xsmall) !important;
+    padding-right: var(--padding-xsmall) !important;
+}
+.padding-x-small {
+    padding-left: var(--padding-small) !important;
+    padding-right: var(--padding-small) !important;
+}
+.padding-x-medium {
+    padding-left: var(--padding-medium) !important;
+    padding-right: var(--padding-medium) !important;
+}
+.padding-x-large {
+    padding-left: var(--padding-large) !important;
+    padding-right: var(--padding-large) !important;
+}
+
+.padding-y-xsmall {
+    padding-bottom: var(--padding-xsmall) !important;
+    padding-top: var(--padding-xsmall) !important;
+}
+.padding-y-small {
+    padding-bottom: var(--padding-small) !important;
+    padding-top: var(--padding-small) !important;
+}
+.padding-y-medium {
+    padding-bottom: var(--padding-medium) !important;
+    padding-top: var(--padding-medium) !important;
+}
+.padding-y-large {
+    padding-bottom: var(--padding-large) !important;
+    padding-top: var(--padding-large) !important;
+}

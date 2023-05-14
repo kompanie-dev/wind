@@ -1,0 +1,15 @@
+.line-height-xsmall {
+    line-height: var(--line-height-xsmall) !important;
+}
+
+.line-height-small {
+    line-height: var(--line-height-small) !important;
+}
+
+.line-height-medium {
+    line-height: var(--line-height-medium) !important;
+}
+
+.line-height-large {
+    line-height: var(--line-height-large) !important;
+}
