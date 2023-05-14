@@ -6,6 +6,11 @@ You can supply your own CSS variables or use the default file `_variables.css`, 
 
 ## Usage
 
+At first you need to install the package using the following command:
+```
+npm i @kompanie/wind
+```
+
 Just apply the classes you want to your HTML using the class attributes.
 If for instance you want to add `text-align: center` and add a large `margin-bottom` below an `h1`:
 
